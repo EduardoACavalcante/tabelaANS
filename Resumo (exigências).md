@@ -12,7 +12,7 @@ Interface permite (possui):
 ## Teste 2
 
 Interface permite: 
-- Criar
+- criar
 - atualizar
 - deletar operadora.
 
