@@ -1,9 +1,0 @@
-Comando de inicialização servidor Node
--- npm run dev
-
-Comando de inicialização VueJS
--- npm run serve
-
-Saída de arquivo
--- server-crud-csv\database\relatorio.csv
-
