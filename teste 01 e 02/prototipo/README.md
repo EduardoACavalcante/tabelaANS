@@ -1,5 +1,3 @@
-# teste-02
-
 ## Project setup
 ```
 npm install
